@@ -1,2 +1,2 @@
 console.log("jqgmp")
-console.log("tnybg")
+console.log("fndix")
