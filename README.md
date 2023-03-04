@@ -1,4 +1,6 @@
-**This is a mock repository.** 
+**This is a contributions repository of all the work I have done in the past** 
+
+*** If you are working in an organisation possibilities are there that you might be working on a work account and the git graph there would be lost once you lose all the access, this repo contains just the commits of all my previous work (mocked) but actual work done. ***
 
 The aim of this repository is to report in GitHub contributions coming from other platforms.
 
